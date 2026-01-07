@@ -1,0 +1,9 @@
+# Java
+*.class
+
+# IDEs
+.idea/
+.vscode/
+
+# OS
+.DS_Store
