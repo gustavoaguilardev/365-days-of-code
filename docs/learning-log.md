@@ -15,3 +15,9 @@ This document tracks my daily progress during the 365 Days of Code challenge.
 - Reviewed primitive data types in Java
 - Practiced implicit (widening) and explicit (narrowing) type casting
 - Reinforced understanding of numeric conversions
+
+## Day 003 - Operators and Expressions
+
+- Practiced arithmetic, relational and logical operators
+- Evaluated expressions and boolean results
+- Reinforced understanding of operator behavior in Java
