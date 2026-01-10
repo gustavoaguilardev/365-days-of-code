@@ -21,3 +21,9 @@ This document tracks my daily progress during the 365 Days of Code challenge.
 - Practiced arithmetic, relational and logical operators
 - Evaluated expressions and boolean results
 - Reinforced understanding of operator behavior in Java
+
+## Day 004 - Control Flow: if / else
+
+- Practiced conditional logic using if, else if and else
+- Evaluated multiple conditions in a clear and readable way
+- Improved understanding of control flow in Java
