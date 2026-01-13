@@ -27,3 +27,9 @@ This document tracks my daily progress during the 365 Days of Code challenge.
 - Practiced conditional logic using if, else if and else
 - Evaluated multiple conditions in a clear and readable way
 - Improved understanding of control flow in Java
+
+## Day 005 - Control Flow: switch
+
+- Practiced decision-making using switch statements
+- Compared switch with if/else for multiple conditions
+- Improved readability of multi-branch logic
