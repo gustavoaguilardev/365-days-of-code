@@ -33,3 +33,9 @@ This document tracks my daily progress during the 365 Days of Code challenge.
 - Practiced decision-making using switch statements
 - Compared switch with if/else for multiple conditions
 - Improved readability of multi-branch logic
+
+## Day 006 - Loops: while and do-while
+
+- Practiced iteration using while and do-while loops
+- Learned the difference between pre-condition and post-condition loops
+- Improved understanding of repetitive logic in Java
