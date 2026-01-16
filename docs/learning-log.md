@@ -39,3 +39,9 @@ This document tracks my daily progress during the 365 Days of Code challenge.
 - Practiced iteration using while and do-while loops
 - Learned the difference between pre-condition and post-condition loops
 - Improved understanding of repetitive logic in Java
+
+## Day 007 - For Loop
+
+- Practiced for loop structure and iteration control
+- Used break and continue to manage loop flow
+- Improved understanding of repetitive logic
