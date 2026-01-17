@@ -45,3 +45,9 @@ This document tracks my daily progress during the 365 Days of Code challenge.
 - Practiced for loop structure and iteration control
 - Used break and continue to manage loop flow
 - Improved understanding of repetitive logic
+
+## Day 008 - Arrays
+
+- Learned how to declare and initialize arrays
+- Accessed elements using indexes
+- Iterated arrays using for loops
