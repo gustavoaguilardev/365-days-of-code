@@ -51,3 +51,9 @@ This document tracks my daily progress during the 365 Days of Code challenge.
 - Learned how to declare and initialize arrays
 - Accessed elements using indexes
 - Iterated arrays using for loops
+
+## Day 009 - Enhanced for loop
+
+- Practiced enhanced for loop (for-each)
+- Compared traditional for loop vs enhanced for
+- Learned when to use each approach
