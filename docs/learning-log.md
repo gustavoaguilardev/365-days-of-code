@@ -57,3 +57,9 @@ This document tracks my daily progress during the 365 Days of Code challenge.
 - Practiced enhanced for loop (for-each)
 - Compared traditional for loop vs enhanced for
 - Learned when to use each approach
+
+## Day 010 - Arrays and Loops Recap
+
+- Combined arrays, loops and conditionals
+- Implemented basic data processing logic
+- Closed Java fundamentals block
