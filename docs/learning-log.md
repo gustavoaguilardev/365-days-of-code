@@ -63,3 +63,9 @@ This document tracks my daily progress during the 365 Days of Code challenge.
 - Combined arrays, loops and conditionals
 - Implemented basic data processing logic
 - Closed Java fundamentals block
+
+## Day 011 - Two Dimensional Arrays
+
+- Learned how to work with 2D arrays
+- Practiced nested loops
+- Understood matrix-style data structures
