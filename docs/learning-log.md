@@ -69,3 +69,9 @@ This document tracks my daily progress during the 365 Days of Code challenge.
 - Learned how to work with 2D arrays
 - Practiced nested loops
 - Understood matrix-style data structures
+
+## Day 012 - Arrays and Methods
+
+- Learned how to define and use methods
+- Passed arrays as parameters
+- Returned calculated values from methods
