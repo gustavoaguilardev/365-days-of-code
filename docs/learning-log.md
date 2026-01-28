@@ -75,3 +75,9 @@ This document tracks my daily progress during the 365 Days of Code challenge.
 - Learned how to define and use methods
 - Passed arrays as parameters
 - Returned calculated values from methods
+
+## Day 013 - Method Validations
+
+- Added input validation to methods
+- Handled null and empty arrays
+- Practiced defensive programming
