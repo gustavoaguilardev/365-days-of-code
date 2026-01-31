@@ -81,3 +81,9 @@ This document tracks my daily progress during the 365 Days of Code challenge.
 - Added input validation to methods
 - Handled null and empty arrays
 - Practiced defensive programming
+
+## Day 014 - OOP Basics
+
+- Learned the basics of classes and objects
+- Created objects with attributes and methods
+- Introduced object-oriented thinking
