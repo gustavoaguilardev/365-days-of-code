@@ -87,3 +87,9 @@ This document tracks my daily progress during the 365 Days of Code challenge.
 - Learned the basics of classes and objects
 - Created objects with attributes and methods
 - Introduced object-oriented thinking
+
+## Day 015 - Encapsulation
+
+- Applied encapsulation using private fields
+- Used getters and setters
+- Added basic data validation

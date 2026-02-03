@@ -13,13 +13,13 @@ public class Day014OopBasics {
     public static void main(String[] args) {
 
         Person person1 = new Person();
-        person1.name = "Alice";
-        person1.age = 30;
+        person1.setName("Alice");
+        person1.setAge(30);
         person1.introduce();
 
         Person person2 = new Person();
-        person2.name = "Bob";
-        person2.age = 25;
+        person2.setName("Bob");
+        person2.setAge(25);
         person2.introduce();
     }
 }
