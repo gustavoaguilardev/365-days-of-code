@@ -93,3 +93,9 @@ This document tracks my daily progress during the 365 Days of Code challenge.
 - Applied encapsulation using private fields
 - Used getters and setters
 - Added basic data validation
+
+## Day 016 - Constructors and this
+
+- Learned how constructors work
+- Used this keyword for object initialization
+- Improved object creation safety

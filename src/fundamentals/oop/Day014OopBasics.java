@@ -12,14 +12,10 @@ public class Day014OopBasics {
 
     public static void main(String[] args) {
 
-        Person person1 = new Person();
-        person1.setName("Alice");
-        person1.setAge(30);
+        Person person1 = new Person("Alice", 30);
         person1.introduce();
 
-        Person person2 = new Person();
-        person2.setName("Bob");
-        person2.setAge(25);
+        Person person2 = new Person("Bob", 25);
         person2.introduce();
     }
 }
