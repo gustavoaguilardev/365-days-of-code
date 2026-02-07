@@ -99,3 +99,9 @@ This document tracks my daily progress during the 365 Days of Code challenge.
 - Learned how constructors work
 - Used this keyword for object initialization
 - Improved object creation safety
+
+## Day 017 - Immutability and final
+
+- Learned immutable object design
+- Used final for fields and classes
+- Created safer and predictable objects
