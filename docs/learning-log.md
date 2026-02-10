@@ -105,3 +105,9 @@ This document tracks my daily progress during the 365 Days of Code challenge.
 - Learned immutable object design
 - Used final for fields and classes
 - Created safer and predictable objects
+
+## Day 018 - Inheritance and super
+
+- Implemented class inheritance using extends
+- Used super to call parent constructors
+- Overrode methods using @Override
